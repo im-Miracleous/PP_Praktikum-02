@@ -1,15 +1,15 @@
-/*
+package PandaStoryApp;/*
  * PRAKTIKUM 02 "IN234 Paradigma Pemrograman" - SOAL 2
- * Nama Program : Crane
- * Deskripsi    : Class dari karakter 'Crane', yang akan melakukan sparring dengan 'Panda'.
+ * Nama Program : PandaStoryApp.Grasshopper
+ * Deskripsi    : Class dari karakter 'PandaStoryApp.Grasshopper', yang akan melakukan sparring dengan 'PandaStoryApp.Panda'.
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019
 */
 
-public class Crane {
+public class Grasshopper {
     private String name;
 
-    public Crane(String name) {
+    public Grasshopper(String name) {
         this.name = name;
     }
 
@@ -25,9 +25,9 @@ public class Crane {
         int energy = panda.getEnergy();
 
         /* Training or Sparring Session (updating stats) */
-        System.out.println("Ok. Let's begin the training.");
-        strength += 3;
-        energy += 11;
+        System.out.printf("%s, get ready.", name);
+        agility += 9;
+        energy += 5;
 
         /* POST the new stats */
         panda.setStrength(strength);

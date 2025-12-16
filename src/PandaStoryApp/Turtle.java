@@ -1,7 +1,7 @@
-/*
+package PandaStoryApp;/*
  * PRAKTIKUM 02 "IN234 Paradigma Pemrograman" - SOAL 2
- * Nama Program : Turtle
- * Deskripsi    : Class dari karakter 'Turtle', yang akan melakukan sparring dengan 'Panda'.
+ * Nama Program : PandaStoryApp.Turtle
+ * Deskripsi    : Class dari karakter 'PandaStoryApp.Turtle', yang akan melakukan sparring dengan 'PandaStoryApp.Panda'.
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019
 */

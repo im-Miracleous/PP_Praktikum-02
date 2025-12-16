@@ -1,15 +1,15 @@
-/*
+package PandaStoryApp;/*
  * PRAKTIKUM 02 "IN234 Paradigma Pemrograman" - SOAL 2
- * Nama Program : Snake
- * Deskripsi    : Class dari karakter 'Snake', yang akan melakukan sparring dengan 'Panda'.
+ * Nama Program : PandaStoryApp.Crane
+ * Deskripsi    : Class dari karakter 'PandaStoryApp.Crane', yang akan melakukan sparring dengan 'PandaStoryApp.Panda'.
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019
 */
 
-public class Snake {
+public class Crane {
     private String name;
 
-    public Snake(String name) {
+    public Crane(String name) {
         this.name = name;
     }
 
@@ -25,9 +25,9 @@ public class Snake {
         int energy = panda.getEnergy();
 
         /* Training or Sparring Session (updating stats) */
-        System.out.printf("Ok %s. Are you ready?", name);
-        strength += 8;
-        energy += 6 ;
+        System.out.println("Ok. Let's begin the training.");
+        strength += 3;
+        energy += 11;
 
         /* POST the new stats */
         panda.setStrength(strength);

@@ -1,7 +1,7 @@
-/*
+package PandaStoryApp;/*
  * PRAKTIKUM 02 "IN234 Paradigma Pemrograman" - SOAL 2
- * Nama Program : Panda
- * Deskripsi    : Class dari karakter 'Panda' (karakter utama), yang akan melakukan pelatihan dengan hewan lainnya.
+ * Nama Program : PandaStoryApp.Panda
+ * Deskripsi    : Class dari karakter 'PandaStoryApp.Panda' (karakter utama), yang akan melakukan pelatihan dengan hewan lainnya.
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019
 */

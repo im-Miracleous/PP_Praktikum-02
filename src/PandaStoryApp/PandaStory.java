@@ -1,7 +1,7 @@
-/*
+package PandaStoryApp;/*
  * PRAKTIKUM 02 "IN234 Paradigma Pemrograman" - SOAL 2
- * Nama Program : PandaStory
- * Deskripsi    : Class yang akan menjalankan ekosistem program dari pelatihan Panda dan kawan-kawan hewannya.
+ * Nama Program : PandaStoryApp.PandaStory
+ * Deskripsi    : Class yang akan menjalankan ekosistem program dari pelatihan PandaStoryApp.Panda dan kawan-kawan hewannya.
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019
 */

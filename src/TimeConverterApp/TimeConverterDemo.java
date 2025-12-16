@@ -1,7 +1,7 @@
-/*
+package TimeConverterApp;/*
  * PRAKTIKUM 02 "IN234 Paradigma Pemrograman" - SOAL 1
- * Nama Program : TimeConverterDemo
- * Deskripsi    : Program menjalankan class 'TimeConverter' untuk mengubah detik yang diinput menjadi bentuk timestamp.
+ * Nama Program : TimeConverterApp.TimeConverterDemo
+ * Deskripsi    : Program menjalankan class 'TimeConverterApp.TimeConverter' untuk mengubah detik yang diinput menjadi bentuk timestamp.
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019
 */

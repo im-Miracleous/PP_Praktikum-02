@@ -1,6 +1,6 @@
-/*
+package TimeConverterApp;/*
  * PRAKTIKUM 02 "IN234 Paradigma Pemrograman" - SOAL 1
- * Nama Program : TimeConverter
+ * Nama Program : TimeConverterApp.TimeConverter
  * Deskripsi    : Program mengonversi input detik menjadi format HH:MM:SS
  * Penulis      : Miracle Steven Gerrald
  * NRP          : 2472019
